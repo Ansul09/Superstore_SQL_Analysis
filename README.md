@@ -100,7 +100,7 @@ This project can be extended with:
 
 ⭐ Why This Project Matters
 
-**This analysis demonstrates the ability to:**</ins>
+<ins>**This analysis demonstrates the ability to:**</ins>
 
 Work with large relational datasets
 
