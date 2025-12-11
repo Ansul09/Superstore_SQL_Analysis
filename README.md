@@ -1,11 +1,11 @@
-**📊 Superstore Sales Analysis (SQL Project)
-**
+<ins>**📊 Superstore Sales Analysis (SQL Project)**</ins>
+
 This project performs an end-to-end analysis of the Sample Superstore dataset using MySQL.
 It explores key business metrics, identifies operational inefficiencies, and uncovers revenue-driving opportunities across categories, customers, discounts, and regions.
 
 The goal is to demonstrate strong SQL skills in data cleaning, exploratory analysis, aggregations, window functions, and business insight generation.
 
-**🚀 Tech Stack::::**
+<ins>**🚀 Tech Stack:**</ins>
 
 MySQL (Analysis)
 
@@ -13,10 +13,8 @@ SQL (Joins, Aggregations, Subqueries, CTEs, Window Functions)
 
 GitHub (Documentation & Version Control)
 
-❓ Business Questions Answered
+<ins>**❓ Business Questions Answered:**</ins>
 
-**This analysis answers several real-world retail analytics questions:::::
-**
 📌 What are the total sales, total profit, and order volume?
 
 📌 Which categories and sub-categories perform best or worst?
@@ -29,9 +27,7 @@ GitHub (Documentation & Version Control)
 
 📌 What trends exist across months, years, and seasons?
 
-**🔍 Key Insights (Summary):::::**
-
-Note: Replace these with your exact results when you run the queries. I can refine your insight summary if you paste your outputs.
+<ins>**🔍 Key Insights (Summary):**</ins>
 
 💰 Technology is the highest-revenue and highest-profit category.
 
@@ -45,7 +41,7 @@ Note: Replace these with your exact results when you run the queries. I can refi
 
 These insights can guide business decisions around pricing, promotions, logistics, and inventory management.
 
-**🧪 How to Run the Project::::::**
+<ins>**🧪 How to Run the Project:**</ins>
 
 Import the Superstore CSV into MySQL
 
@@ -64,8 +60,8 @@ Review results in MySQL
 
 Use insights for reports, dashboards, or presentations
 
-**📈 Analysis Coverage::::::
-**
+<ins>**📈 Analysis Coverage:**</ins>
+
 The SQL file includes:
 
 EDA (Exploratory Data Analysis)
@@ -88,7 +84,7 @@ Shipping performance metrics
 
 Each section is documented with comments for readability.
 
-**Future Improvements::::::**
+<ins>**Future Improvements:**</ins>
 
 This project can be extended with:
 
@@ -104,7 +100,7 @@ This project can be extended with:
 
 ⭐ Why This Project Matters
 
-**This analysis demonstrates the ability to:**
+**This analysis demonstrates the ability to:**</ins>
 
 Work with large relational datasets
 
