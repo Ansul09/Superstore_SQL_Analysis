@@ -1,11 +1,11 @@
-📊 Superstore Sales Analysis (SQL Project)
-
+**📊 Superstore Sales Analysis (SQL Project)
+**
 This project performs an end-to-end analysis of the Sample Superstore dataset using MySQL.
 It explores key business metrics, identifies operational inefficiencies, and uncovers revenue-driving opportunities across categories, customers, discounts, and regions.
 
 The goal is to demonstrate strong SQL skills in data cleaning, exploratory analysis, aggregations, window functions, and business insight generation.
 
-🚀 Tech Stack::::
+**🚀 Tech Stack::::**
 
 MySQL (Analysis)
 
@@ -15,8 +15,8 @@ GitHub (Documentation & Version Control)
 
 ❓ Business Questions Answered
 
-This analysis answers several real-world retail analytics questions:::::
-
+**This analysis answers several real-world retail analytics questions:::::
+**
 📌 What are the total sales, total profit, and order volume?
 
 📌 Which categories and sub-categories perform best or worst?
@@ -29,7 +29,7 @@ This analysis answers several real-world retail analytics questions:::::
 
 📌 What trends exist across months, years, and seasons?
 
-🔍 Key Insights (Summary):::::
+**🔍 Key Insights (Summary):::::**
 
 Note: Replace these with your exact results when you run the queries. I can refine your insight summary if you paste your outputs.
 
@@ -45,7 +45,7 @@ Note: Replace these with your exact results when you run the queries. I can refi
 
 These insights can guide business decisions around pricing, promotions, logistics, and inventory management.
 
-🧪 How to Run the Project::::::
+**🧪 How to Run the Project::::::**
 
 Import the Superstore CSV into MySQL
 
@@ -64,8 +64,8 @@ Review results in MySQL
 
 Use insights for reports, dashboards, or presentations
 
-📈 Analysis Coverage::::::
-
+**📈 Analysis Coverage::::::
+**
 The SQL file includes:
 
 EDA (Exploratory Data Analysis)
@@ -88,7 +88,7 @@ Shipping performance metrics
 
 Each section is documented with comments for readability.
 
-Future Improvements::::::
+**Future Improvements::::::**
 
 This project can be extended with:
 
@@ -104,7 +104,7 @@ This project can be extended with:
 
 ⭐ Why This Project Matters
 
-This analysis demonstrates the ability to:
+**This analysis demonstrates the ability to:**
 
 Work with large relational datasets
 
